@@ -36,7 +36,9 @@
   "dependencies": {},
   "deprecated": false,
   "description": "Automatically fetch gitignore files for any project type from github into your new project",
-  "devDependencies": {},
+  "devDependencies": {
+    "@types/node": "^18.8.1"
+  },
   "engines": {
     "node": "*"
   },
